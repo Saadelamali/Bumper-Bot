@@ -1,0 +1,5 @@
+{
+  "token" : "",
+  "database_url" : "",
+  "invite_url": "https://discord.com/api/oauth2/authorize?client_id=id&permissions=137439308944&scope=bot%20applications.commands"
+}

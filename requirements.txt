@@ -1,0 +1,6 @@
+disnake==2.5.1
+asyncio
+tornado
+motor
+pymongo==3.12.3
+dnspython
